@@ -1,2 +1,2 @@
-# ToBeNamed
-To Be Named
+This is a site for game challenges.
+
